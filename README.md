@@ -1,2 +1,2 @@
 # Cat-Card-Hover
-A card cat hover 🐈
+A simple card cat hover 🐈
